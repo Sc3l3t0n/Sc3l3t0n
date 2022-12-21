@@ -24,4 +24,16 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+From: 16 December 2022 - To: 20 December 2022
+
+Total Time: 3 hrs 22 mins
+
+Java            3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.06 %
+Text            3 mins          -------------------------   01.51 %
+Markdown        0 secs          -------------------------   00.35 %
+AUTO_DETECTED   0 secs          -------------------------   00.08 %
+```
+
 <!--END_SECTION:waka-->
