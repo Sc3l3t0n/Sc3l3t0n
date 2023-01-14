@@ -26,16 +26,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 11 January 2023
+From: 16 December 2022 - To: 12 January 2023
 
-Total Time: 18 hrs 12 mins
+Total Time: 19 hrs 24 mins
 
-Java             15 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.85 %
-JavaScript       41 mins         >------------------------   03.83 %
-CSS              32 mins         >------------------------   02.98 %
-Markdown         26 mins         >------------------------   02.46 %
-HTML             22 mins         >------------------------   02.09 %
-Text             4 mins          -------------------------   00.37 %
+Java             17 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.38 %
+JavaScript       41 mins         >------------------------   03.60 %
+CSS              32 mins         >------------------------   02.80 %
+Markdown         26 mins         >------------------------   02.31 %
+HTML             22 mins         -------------------------   01.96 %
+Kotlin           5 mins          -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
