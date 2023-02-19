@@ -26,16 +26,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 16 February 2023
+From: 16 December 2022 - To: 17 February 2023
 
-Total Time: 78 hrs 28 mins
+Total Time: 79 hrs 49 mins
 
-Java             71 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.53 %
-TOML             1 hr 38 mins    >------------------------   02.09 %
-tutor            1 hr 18 mins    -------------------------   01.66 %
-JavaScript       41 mins         -------------------------   00.89 %
-Markdown         33 mins         -------------------------   00.70 %
-CSS              32 mins         -------------------------   00.70 %
+Java             72 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.23 %
+TOML             1 hr 38 mins    >------------------------   02.05 %
+tutor            1 hr 18 mins    -------------------------   01.63 %
+Markdown         54 mins         -------------------------   01.14 %
+JavaScript       41 mins         -------------------------   00.87 %
+CSS              32 mins         -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
