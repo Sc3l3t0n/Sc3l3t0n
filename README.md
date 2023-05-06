@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 03 May 2023
+From: 16 December 2022 - To: 04 May 2023
 
 Total Time: 86 hrs 40 mins
 
@@ -35,7 +35,6 @@ TOML             1 hr 38 mins    -------------------------   01.89 %
 tutor            1 hr 18 mins    -------------------------   01.50 %
 Markdown         1 hr            -------------------------   01.16 %
 JavaScript       41 mins         -------------------------   00.80 %
-CSS              32 mins         -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
