@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 08 May 2023
+From: 16 December 2022 - To: 09 May 2023
 
-Total Time: 88 hrs 56 mins
+Total Time: 90 hrs 12 mins
 
-Java             79 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.43 %
-Python           2 hrs 30 mins   >------------------------   02.82 %
-TOML             1 hr 38 mins    -------------------------   01.84 %
-tutor            1 hr 18 mins    -------------------------   01.47 %
-Markdown         1 hr            -------------------------   01.13 %
+Java             80 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.82 %
+Python           2 hrs 59 mins   >------------------------   03.32 %
+TOML             1 hr 38 mins    -------------------------   01.82 %
+tutor            1 hr 18 mins    -------------------------   01.45 %
+Markdown         1 hr            -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->
