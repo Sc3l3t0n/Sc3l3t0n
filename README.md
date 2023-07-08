@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 05 July 2023
+From: 16 December 2022 - To: 06 July 2023
 
-Total Time: 112 hrs 49 mins
+Total Time: 113 hrs 56 mins
 
-Java             98 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.62 %
-Python           6 hrs 43 mins   >------------------------   05.96 %
-TOML             1 hr 38 mins    -------------------------   01.45 %
-tutor            1 hr 18 mins    -------------------------   01.16 %
-Markdown         1 hr 5 mins     -------------------------   00.97 %
+Java             99 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.74 %
+Python           6 hrs 43 mins   >------------------------   05.90 %
+TOML             1 hr 38 mins    -------------------------   01.44 %
+tutor            1 hr 18 mins    -------------------------   01.14 %
+Markdown         1 hr 5 mins     -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
