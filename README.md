@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marlon Rosenberg</h1>
 <h3 align="center">A passionate computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on [FOP 2023/23 Project](https://github.com/Sc3l3t0n/FOP-2223-Projekt)
+- 🔭 I’m currently working on no specific Project.
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Java**
 
 - 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/)
 
