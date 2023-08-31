@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marlon Rosenberg</h1>
 <h3 align="center">A passionate computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on no specific Project.
+- 🔭 I’m currently working on [timeStemp](https://github.com/Sc3l3t0n/timeStemp)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and *C#*
 
 - 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/)
 
