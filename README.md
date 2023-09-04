@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [timeStemp](https://github.com/Sc3l3t0n/timeStemp)
 
-- 🌱 I’m currently learning **Java** and *C#*
+- 🌱 I’m currently learning **Java** and **C#**
 
 - 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **second semester**
 
