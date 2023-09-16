@@ -51,15 +51,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 13 September 2023
+From: 16 December 2022 - To: 14 September 2023
 
-Total Time: 150 hrs 7 mins
+Total Time: 150 hrs 9 mins
 
-Java                129 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>---   86.42 %
+Java                129 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>---   86.40 %
 Python              6 hrs 43 mins   >------------------------   04.48 %
 TOML                1 hr 44 mins    -------------------------   01.16 %
 GUI_DESIGNER_FORM   1 hr 42 mins    -------------------------   01.14 %
-Markdown            1 hr 38 mins    -------------------------   01.10 %
+Markdown            1 hr 41 mins    -------------------------   01.12 %
 ```
 
 <!--END_SECTION:waka-->
