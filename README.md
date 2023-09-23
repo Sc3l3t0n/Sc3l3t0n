@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java** and **C#**
 
-- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **second semester**
+- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **third semester**
 
 - 🤝 I’m looking for help with **learning new things**
 
