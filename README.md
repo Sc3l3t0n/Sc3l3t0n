@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marlon Rosenberg</h1>
-<h3 align="center">A passionate, 20-year-old computer science student from Germany.</h3>
+<h1 align="center"><a name="heading"></a>Hi 👋, I'm Marlon Rosenberg</h1>
+<h3 align="center"><a name="heading"></a>A passionate, 20-year-old computer science student from Germany.</h3>
 
 - 🔭 I’m currently working on [timeStamp](https://github.com/Sc3l3t0n/timeStamp)
 
@@ -13,12 +13,12 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a name="heading"></a>Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sceleton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sceleton" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><a name="heading"></a>Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
