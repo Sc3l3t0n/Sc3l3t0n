@@ -51,15 +51,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 30 November 2023
+From: 16 December 2022 - To: 01 December 2023
 
-Total Time: 248 hrs 58 mins
+Total Time: 250 hrs 52 mins
 
-Java                159 hrs 3 mins  >>>>>>>>>>>>>>>>---------   63.88 %
-Rust                22 hrs 48 mins  >>-----------------------   09.16 %
-C++                 18 hrs 36 mins  >>-----------------------   07.47 %
-Scala               8 hrs 8 mins    >------------------------   03.27 %
-Python              6 hrs 43 mins   >------------------------   02.70 %
+Java                159 hrs 3 mins  >>>>>>>>>>>>>>>>---------   63.40 %
+Rust                24 hrs 41 mins  >>-----------------------   09.84 %
+C++                 18 hrs 36 mins  >>-----------------------   07.42 %
+Scala               8 hrs 8 mins    >------------------------   03.24 %
+Python              6 hrs 43 mins   >------------------------   02.68 %
 ```
 
 <!--END_SECTION:waka-->
