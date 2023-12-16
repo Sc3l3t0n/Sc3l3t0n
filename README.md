@@ -1,7 +1,7 @@
 <h1 align="center"><a name="heading"></a>Hi 👋, I'm Marlon Rosenberg</h1>
 <h3 align="center"><a name="heading"></a>A passionate, 20-year-old computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on [timeStamp](https://github.com/Sc3l3t0n/timeStamp)
+- 🔭 I’m currently working on [AdventOfCode23](https://github.com/Sc3l3t0n/AdventOfCode23)
 
 - 🌱 I’m currently learning **Java** and **C#**
 
