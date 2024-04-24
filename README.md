@@ -1,11 +1,11 @@
 <h1 align="center"><a name="heading"></a>Hi 👋, I'm Marlon Rosenberg</h1>
-<h3 align="center"><a name="heading"></a>A passionate, 20-year-old computer science student from Germany.</h3>
+<h3 align="center"><a name="heading"></a>A passionate, 21-year-old computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on [AdventOfCode23](https://github.com/Sc3l3t0n/AdventOfCode23)
+- 🔭 I’m currently working on nothing special
 
-- 🌱 I’m currently learning **Java** and **C#**
+- 🌱 I’m currently learning **C#**, **Rust**, **Go** and how to use **Nixos**
 
-- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **third semester**
+- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **fourth semester**
 
 - 🤝 I’m looking for help with **learning new things**
 
