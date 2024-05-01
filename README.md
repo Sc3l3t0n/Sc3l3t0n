@@ -1,7 +1,7 @@
 <h1 align="center"><a name="heading"></a>Hi 👋, I'm Marlon Rosenberg</h1>
 <h3 align="center"><a name="heading"></a>A passionate, 21-year-old computer science student from Germany.</h3>
 
-- 🔭 I’m currently working on nothing special
+- 🔭 I’m currently working on a TickTick-Tui
 
 - 🌱 I’m currently learning **C#**, **Rust**, **Go** and how to use **Nixos**
 
