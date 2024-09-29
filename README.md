@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**, **Zig**, **Gleam** and how to use **Nixos**
 
-- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **fourth semester**
+- 🏫 I'm currently studying at [Technische Universität Darmstadt](https://www.tu-darmstadt.de/) in **fifth semester**
 
 - 🤝 I’m looking for help with **learning new things**
 
