@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate, 21-year-old computer science student from Germany</h3>
+<h3 align="center">A passionate, 22-year-old computer science student from Germany</h3>
 
 ###
 
@@ -28,25 +28,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zig" height="40" alt="zig logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-</div>
+![Fairly Experienced](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,zig,neovim,rider,git,gleam,linux,java,rust)
 
 ###
 
@@ -54,31 +36,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-</div>
+![Fairly Experienced](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,lua,postgres,py,blazor,sqlite,ts,tailwind,scala,bootstrap,angular,unity,flutter)
 
 ###
 
