@@ -9,7 +9,7 @@
 <ul align="left">
   <li> 🔭 I’m currently working primarily in C# for my student job</li>  
   <li>🌱 I’m currently learning C#, Zig, Gleam and how to use Nixos</li>    
-  <li>🏫 I'm currently studying at <a href="https://www.tu-darmstadt.de/">Technische Universität Darmstadt</a> in fifth semester</li>    
+  <li>🏫 I'm currently studying at <a href="https://www.tu-darmstadt.de/">Technische Universität Darmstadt</a> in sixth semester</li>    
   <li>🤝 I’m looking for help with learning new things</li>    
   <li>📫 How to reach me <a href="mailto:marlon.rosenberg@t-online.de">marlon.rosenberg@t-online.de</a></li>
 </ul>
