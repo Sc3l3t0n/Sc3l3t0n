@@ -45,9 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 31 July 2025
+From: 16 December 2022 - To: 01 August 2025
 
-Total Time: 2,037 hrs 30 mins
+Total Time: 2,037 hrs 35 mins
 
 C#                         715 hrs 56 mins >>>>>>>>>----------------   35.14 %
 Zig                        208 hrs 41 mins >>>----------------------   10.24 %
