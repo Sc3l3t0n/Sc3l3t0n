@@ -45,15 +45,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 19 December 2025
+From: 16 December 2022 - To: 20 December 2025
 
-Total Time: 2,466 hrs 13 mins
+Total Time: 2,471 hrs 37 mins
 
-C#                         870 hrs 7 mins  >>>>>>>>>----------------   35.28 %
-Zig                        288 hrs 26 mins >>>----------------------   11.70 %
-Java                       169 hrs 27 mins >>-----------------------   06.87 %
-Rust                       110 hrs 28 mins >------------------------   04.48 %
-Nix                        95 hrs 42 mins  >------------------------   03.88 %
+C#                         870 hrs 7 mins  >>>>>>>>>----------------   35.20 %
+Zig                        291 hrs 12 mins >>>----------------------   11.78 %
+Java                       169 hrs 27 mins >>-----------------------   06.86 %
+Rust                       110 hrs 28 mins >------------------------   04.47 %
+Nix                        98 hrs 10 mins  >------------------------   03.97 %
 ```
 
 <!--END_SECTION:waka-->
