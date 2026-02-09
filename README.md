@@ -45,14 +45,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 06 February 2026
+From: 16 December 2022 - To: 07 February 2026
 
-Total Time: 2,635 hrs 36 mins
+Total Time: 2,637 hrs 22 mins
 
-C#                         939 hrs 25 mins >>>>>>>>>----------------   35.64 %
-Zig                        300 hrs 11 mins >>>----------------------   11.39 %
+C#                         939 hrs 25 mins >>>>>>>>>----------------   35.62 %
+Zig                        300 hrs 11 mins >>>----------------------   11.38 %
 Java                       169 hrs 27 mins >>-----------------------   06.43 %
-Nix                        127 hrs 22 mins >------------------------   04.83 %
+Nix                        127 hrs 50 mins >------------------------   04.85 %
 Rust                       110 hrs 28 mins >------------------------   04.19 %
 ```
 
