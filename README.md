@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate, 22-year-old computer science student from Germany</h3>
+<h3 align="center">A passionate, 23-year-old computer science student from Germany</h3>
 
 ###
 
@@ -10,8 +10,7 @@
   <li>🔭 I’m currently working primarily in C# for my student job and Zig for hobby projects</li>  
   <li>🌱 I’m currently learning svelte with ts and how to use Nixos</li>    
   <li>🏫 I'm currently studying at <a href="https://www.tu-darmstadt.de/">Technische Universität Darmstadt</a> in seventh semester</li>    
-  <li>🤝 I’m looking for help with learning new things</li>    
-  <li>📫 How to reach me <a href="mailto:marlon.rosenberg@t-online.de">marlon.rosenberg@t-online.de</a></li>
+  <li>🤝 I’m looking for help with learning new things</li>
 </ul>
 
 ###
