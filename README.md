@@ -7,7 +7,7 @@
 ###
 
 <ul align="left">
-  <li>🔭 I’m currently working primarily in C# for my job and Zig for hobby projects</li>  
+  <li>🔭 I’m currently working primarily in C# and Python for my job and Zig for hobby projects</li>  
   <li>🌱 I’m currently learning compiler optimizations and working with databricks</li>    
   <li>🏫 I'm currently pursuing my master's degree at <a href="https://www.tu-darmstadt.de/">Technische Universität Darmstadt</a> and am in my first semester.</li>
   <li>🤝 I’m looking for help with learning new things</li>
